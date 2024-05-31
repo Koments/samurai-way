@@ -1,0 +1,14 @@
+.messageContainer{
+    width: 600px;
+    background-color: black;
+    color: white;
+}
+.messageSent {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.messageReceived  {
+    display: flex;
+    justify-content: flex-start;
+}

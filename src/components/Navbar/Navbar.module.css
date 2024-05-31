@@ -1,0 +1,12 @@
+.nav {
+    width: 300px;
+    background: gray;
+}
+
+.item a{
+    text-decoration: none
+}
+
+.not_visited_link{
+    color: white;
+}

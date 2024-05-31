@@ -1,0 +1,24 @@
+.title{
+  color: white;
+  font-size: 23px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.friendsContainer{
+  display: flex;
+  color: white;
+}
+
+.friendContainer{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3px;
+}
+
+.friendContainer img{
+  width: 30px;
+  height: 30px;
+}
